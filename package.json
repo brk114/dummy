@@ -1,0 +1,13 @@
+{
+    "name": "first-node-webapp",
+    "version": "0.0.0",
+    "private": true,
+    "dependencies": {
+        "body-parser": "~1.16.0",
+        "cookie-parser": "~1.4.3",
+        "debug": "~2.6.0",
+        "express": "~4.14.1",
+        "request": "^2.81.0",
+        "serve-favicon": "~2.3.2"
+    }
+}
